@@ -1,1 +1,4 @@
-# F2021-lecture-history-b
+# Lecture History (Cohort B)
+
+## Unit 0
+* Date - Topic: [video](link)
