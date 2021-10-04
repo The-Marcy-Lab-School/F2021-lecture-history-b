@@ -201,5 +201,5 @@
 * *Absolute positioning removes elements from the normal document flow.* No matter where you position it, the browser won't treat that space as occupied space.
 
 ### `position: fixed`
-* Fixed positioningsets an element to a fixed position within the window. 
+* Fixed positioning sets an element to a fixed position within the window. 
 * The element does not move if the user scrolls the page. (Think navigation bar at the top of a page.)
