@@ -16,6 +16,7 @@
 * What is a CSS selector?
 * What are the benefits of using semantic CSS class/ID names?
 * What is "the cascade" and how does this impact the way styling is applied to HTML elements?
+* Adding CSS to a html page
 * What is _specificity_ and how is it calculated?
 * How do specificity and the cascade work together to determine styling of HTML elements?
 * What is the benefit of keeping our specificity weights _low_?
@@ -37,6 +38,7 @@
 ___
 
 ### Optional Learning
+* Video: [CSS Specificity](https://www.youtube.com/watch?v=5Jpu2YrqzN0)
 
 #### Extend Your Learning
 * Article: [CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors) on MDN

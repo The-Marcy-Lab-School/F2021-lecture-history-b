@@ -1,10 +1,16 @@
-/*p {*/
-/*    color: red;*/
-/*}*/
+
+
+p {
+    color: blue;
+}
 
 /*target a class*/
 .red {
     color: red;
+}
+
+#green {
+    color: green;    
 }
 
 .bolded {

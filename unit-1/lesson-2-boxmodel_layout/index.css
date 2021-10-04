@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+.h-100 {
+    height: 100px;
+}
+
+#box {
+    background-color: green;
+}
+
+div {
+    background-color: red;
+}
+
+div div div div div div {
+    background-color: blue;
+}
+
+.boxy {
+    background-color: purple;
+    border: dotted;
+}
+
+div.boxy {
+    background-color: brown;
+}
+
+.block {
+    display: block;
+}
+
+.inline-block {
+    display: inline-block;
+}
