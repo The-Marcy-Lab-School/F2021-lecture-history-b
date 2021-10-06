@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Webpage</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <form action="/some/url" method="POST">
+      <label for="email">Email</label>
+      <input id="email" name="email" type="email" autofocus required autocomplete="email" />
+
+      <label for="password">Password</label>
+      <input type="password" name="password" id="password" />
+
+      <label for="red">Red</label>
+      <input type="checkbox" id="red" value="red">
+
+      <label for="green">Green</label>
+      <input type="checkbox" id="green" value="green" checked>
+
+      <input type="hidden">
+
+      <label for="comments">My Comment</label>
+      <textarea id="comments" rows="10"></textarea>
+
+      <label for="number">Number</label>
+      <select id="number" multiple>
+        <option>One</option>
+        <option>Two</option>
+        <option>Three</option>
+      </select>
+
+      <button type="submit">Click Me</button>
+    </form>
+  </body>
+</html>

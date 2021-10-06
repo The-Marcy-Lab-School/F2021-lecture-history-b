@@ -1,0 +1,31 @@
+*, *::after, *::before {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #02C39A;
+}
+
+ul {
+  list-style: none;
+}
+
+input {
+  border: 1px dashed purple;
+  height: 40px;
+}
+
+/*input, textarea, select {*/
+/*  display: block;*/
+/*}*/
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+}
+
+input[type=email] {
+  background-color: green;
+}
