@@ -7,3 +7,4 @@
 * Friday October 1 - HTML,CSS: [video](https://us02web.zoom.us/rec/share/8SJmgPiT-5tT8ghHX6CGVHs-9kE01J-xfp6U134B1-FNChvNAaZH5jP2bF3jLlAC.hDekYjdW00lz7Sul)
 * Monday Oct 4 - Review of HTML, Box Model, Display: [video](https://us02web.zoom.us/rec/share/snP2EhqNwoctOFT2deZiyV4iw7O-qogKyHsnEifsEeZBB0FnYorN94gsk_q1JItu.qQpUt5vS0cwTwhso)
 * Monday Oct 4 - Display, Position, Tables, Floats (kind of): [video](https://us02web.zoom.us/rec/share/PJTb1SDyajexdGkH5jsE8LAoAkaZak7hEkC_GDLk2M3vEpbY-U_Kfv_6RrjHkJKz.ZIbp2-p2H2byd35r)
+* Wedneday Oct 6 - Forms: [video](https://us02web.zoom.us/rec/share/Y8s3NpuWLv7wuVrNVkhw1sQMUcW1m6kzeVUIny5cHGF7UchegzLAV7hX4_CZ4jD0.jmW97yRviBvf0AcO)
