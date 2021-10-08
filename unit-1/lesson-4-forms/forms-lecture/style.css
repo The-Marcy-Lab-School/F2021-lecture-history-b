@@ -1,4 +1,6 @@
-*, *::after, *::before {
+*,
+*::after,
+*::before {
   box-sizing: border-box;
 }
 
@@ -17,7 +19,9 @@ input {
 }
 
 /*input, textarea, select {*/
+
 /*  display: block;*/
+
 /*}*/
 
 form {

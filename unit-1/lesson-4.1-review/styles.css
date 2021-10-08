@@ -1,0 +1,31 @@
+#main-div.red-box {
+  background-color: red;
+  width: 500px;
+  border: 20px solid black;
+  padding: 0 20px;
+}
+
+div ul li {
+  display: inline-block;
+}
+
+#last-li {
+  display: block;
+}
+
+.red-box, #last-li, span {
+  border: 1px solid black;
+  background-color: green;
+}
+
+/**, *::before, *::after  {*/
+/*  box-sizing: border-box;*/
+/*}*/
+
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after  {
+  box-sizing: inherit;
+}
