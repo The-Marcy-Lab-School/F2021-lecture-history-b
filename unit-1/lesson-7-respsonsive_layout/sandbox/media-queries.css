@@ -1,0 +1,69 @@
+.print {
+  display: none;
+}
+
+/*media query that targets the body's */
+/*color at max width of 500px*/
+@media screen and (max-width: 500px) {
+  body {
+    background-color: white;
+  }
+
+  #gif-wrap {
+    background-color: white;
+  }
+}
+
+@media (min-width: 501px) and (max-width: 799px) {
+  body {
+    background-color: red;
+  }
+}
+
+@media (min-width: 800px) {
+  body {
+    background-color: #ddd;
+  }
+
+  #gif-wrap {
+    background-color: #ddd;
+  }
+}
+
+@media print {
+  body {
+    background-color: #ddd;
+  }
+
+  #gif-wrap {
+    display: none;
+  }
+
+  .print {
+    display: block !important;
+  }
+}
+
+@media (orientation: landscape) {
+  .landscape {
+    display: block;
+  }
+
+  .portrait {
+    display: none;
+  }
+}
+
+@media (orientation: portrait) {
+  .portrait {
+    display: block;
+  }
+
+  .landscape {
+    display: none;
+  }
+}
+
+body {
+  background-color: purple;
+}

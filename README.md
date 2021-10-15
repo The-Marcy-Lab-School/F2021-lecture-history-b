@@ -9,3 +9,7 @@
 * Monday Oct 4 - Display, Position, Tables, Floats (kind of): [video](https://us02web.zoom.us/rec/share/PJTb1SDyajexdGkH5jsE8LAoAkaZak7hEkC_GDLk2M3vEpbY-U_Kfv_6RrjHkJKz.ZIbp2-p2H2byd35r)
 * Wedneday Oct 6 - Forms: [video](https://us02web.zoom.us/rec/share/Y8s3NpuWLv7wuVrNVkhw1sQMUcW1m6kzeVUIny5cHGF7UchegzLAV7hX4_CZ4jD0.jmW97yRviBvf0AcO)
 * Friday Oct 8 - Review: [video](https://us02web.zoom.us/rec/share/s4Jg47T8y4s3KWnv6Od1WgZsOVFcaA5ZukfyB6vx5bR4_7-INzjMzMXzfyUXwgPF.CE7SYUcwBBi_1usf)
+* Tuesday Oct 12 - Flexbox: [video](https://us02web.zoom.us/rec/share/pC2pzV5hDMaRMLZgHhqwwBDnxX5bG7tqFqk5i1I4YVzsFRdCZsZWPZM2e6Df-nBz.7ODobi0ExvJhoHTR)
+* Tuesday Oct 12 - Grid: [video](https://us02web.zoom.us/rec/share/9fksH7YCszE47LsaSUVAc2QI-68KkiE-KxNOqd80PSYa3HpFtYDDUur6UGbvyI42.ZkMGc3oh67hznaet)
+* Wedneday Oct 13 - Repsponsive Design: [video](https://us02web.zoom.us/rec/share/0I7XjVeQPCLLGmiWzqSnnvxWKN01q6Md1KZTlcijy7TSxQrUNdXrVuNprm4_CKqf.ASEFmyQh-W8useVK)
+* Friday Oct 15 - Review: [video]()

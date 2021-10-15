@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400&display=swap');
+
+body {
+  margin:  0;
+  font-family: Montserrat;
+}
+
+button {
+    display: inline-block;
+    line-height: 40px;
+    padding: 0.3em 0.5em;
+    -webkit-box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+    box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+    background: #fff;
+    border:none;
+    border-radius: 0.5em;
+    font-size: 1.5em;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: .025em;
+    color: #7795f8;
+    outline: none;
+}
+
+/*
+Cactus Image URL:  https://images.unsplash.com/photo-1485841890310-6a055c88698a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80
+*/
+
+header {
+  background-image: url("https://images.unsplash.com/photo-1485841890310-6a055c88698a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80");
+  height: 100vh;
+  background-size:  cover;
+  background-position: bottom;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  font-size: 4em;
+  font-family: Montserrat;
+  font-weight: 400;
+  margin-bottom:  0;
+}
+
+main {
+  background-color: #f6f9fc;
+  display: flex;
+  flex-direction:column;
+  align-items:  center;
+}
+
+main h2 {
+  color:  #6772e5;
+  font-size:  2em;
+  font-weight: 300;
+  margin-top:  2em;
+}
+
+#cards {
+  background-color: white;
+  max-width: 1200px;
+  display: flex;
+  border-radius: 1em;
+  margin-top:2em;
+}
+
+#cards img {
+  width: 66px;
+}
+
+#cards section {
+  padding:  4em;
+}
+
+#cards h3 {
+  color: #24b47e;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+#cards p {
+  line-height: 1.8em;
+  color: #525f7f;
+}
+
+#cards a {
+  color: #6772e5;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+#cards section:nth-of-type(2){
+  border-left:  2px solid #f6f9fc;
+}
+
+
+@media screen and (max-width: 700px){
+  header{
+    height: 50vh;
+    font-size:0.8em;
+  }
+  main h2 {
+    font-size: 1.5em;
+  }
+  #cards section {
+    padding:  3em;
+  }
+}
+
+@media screen and (max-width: 500px){
+  header{
+    font-size:0.5em;
+  }
+  main h2 {
+    font-size: 1.2em;
+  }
+}
+
+@media screen and (max-width: 900px){
+  #cards {
+    flex-direction:column;
+  }
+  #cards section:nth-of-type(2){
+    border-left: none;
+    border-top: 3px solid #f6f9fc;
+  }
+}
+
