@@ -14,4 +14,6 @@
 * Wedneday Oct 13 - Repsponsive Design: [video](https://us02web.zoom.us/rec/share/0I7XjVeQPCLLGmiWzqSnnvxWKN01q6Md1KZTlcijy7TSxQrUNdXrVuNprm4_CKqf.ASEFmyQh-W8useVK)
 * Friday Oct 15 - Review: [video](https://us02web.zoom.us/rec/share/Z_iLrJFRNfsLOU4vrU2TfURp8lX7SnbozpS3LhTvKNXsngjbwif1tqp2OKU0yGEy.TRf8nHq4rIlBRiDb)
 * Project Presentations [video](https://us02web.zoom.us/rec/share/G0tcw_kahZ9XbFV__8BKX82UQy8lekM3Ab7Dg2m1oys8K4q6PtDN04e3Vi6Yn-8.Dm-xcudqpPj-JoZs)
-* Monday Oct 26 - Javascript, Types, Operators: [video](https://us02web.zoom.us/rec/share/en2keu-HvsxjJOrcYYKdiacG5Ca5HULcSmSWRyKBw20921VWKOdESuu3oWYxEwT9.LMszE7y59sNGWpTV)
+* Tuesday Oct 26 - Javascript, Types, Operators: [video](https://us02web.zoom.us/rec/share/en2keu-HvsxjJOrcYYKdiacG5Ca5HULcSmSWRyKBw20921VWKOdESuu3oWYxEwT9.LMszE7y59sNGWpTV)
+* Wednesday Oct 27 - Variables, Iterators, Control Flow: [video](https://us02web.zoom.us/rec/share/5ZWe3SaJgHy_yOm5DZ4ishGbNYKKGJi89ehjzV5pd1qMhwCKnVHEu2C98Ct9ToUE.4uy1Jw7t7cdJafOr)
+* Friday Oct 29 - Functions: [video](https://us02web.zoom.us/rec/share/Dd7CfhZwmqDGEpUcR8FbZDK8Z1hIQgISgX4rTJm2QHymmDLi181VLNo19AKBJo0F.gAwsIYV_JH2iz3qx)
