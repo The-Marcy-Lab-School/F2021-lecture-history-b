@@ -17,3 +17,4 @@
 * Tuesday Oct 26 - Javascript, Types, Operators: [video](https://us02web.zoom.us/rec/share/en2keu-HvsxjJOrcYYKdiacG5Ca5HULcSmSWRyKBw20921VWKOdESuu3oWYxEwT9.LMszE7y59sNGWpTV)
 * Wednesday Oct 27 - Variables, Iterators, Control Flow: [video](https://us02web.zoom.us/rec/share/5ZWe3SaJgHy_yOm5DZ4ishGbNYKKGJi89ehjzV5pd1qMhwCKnVHEu2C98Ct9ToUE.4uy1Jw7t7cdJafOr)
 * Friday Oct 29 - Functions: [video](https://us02web.zoom.us/rec/share/Dd7CfhZwmqDGEpUcR8FbZDK8Z1hIQgISgX4rTJm2QHymmDLi181VLNo19AKBJo0F.gAwsIYV_JH2iz3qx)
+* Monday Nov 1 - Review, Unit Testing: [video](https://us02web.zoom.us/rec/share/8Avq9aOJ25iFZy1EK6faSUYZ3qt8FWnvTMAOfdwQ0mUVGQY2SrdHLoK_9sb9c9ZR.czTBwQTkBR9lOOdR)
