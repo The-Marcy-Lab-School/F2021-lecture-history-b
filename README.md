@@ -19,3 +19,5 @@
 * Friday Oct 29 - Functions: [video](https://us02web.zoom.us/rec/share/Dd7CfhZwmqDGEpUcR8FbZDK8Z1hIQgISgX4rTJm2QHymmDLi181VLNo19AKBJo0F.gAwsIYV_JH2iz3qx)
 * Monday Nov 1 - Review, Unit Testing: [video](https://us02web.zoom.us/rec/share/8Avq9aOJ25iFZy1EK6faSUYZ3qt8FWnvTMAOfdwQ0mUVGQY2SrdHLoK_9sb9c9ZR.czTBwQTkBR9lOOdR)
 * Monday Nov 1 - Scope: [video](https://us02web.zoom.us/rec/share/wBRYOs5YwtdrjN3i37dtRk_SuWey247ElpQB53uXWb1LED_G-jV6VsmpGjOa6Jb4.2FNoHQBX8ofh0-5S)
+* Wedneday Nov 3 - Arrays: [video](https://us02web.zoom.us/rec/share/aPEgSw3oSkD7ej4dNzkRAfNc-UFTsUD_Ww8pBYR7zE6suWhuslskOeC8gFJBOCQl.aHXvZy1_55cjxYiU)
+* Wedneday Nov 3 - OH (Scope): [video](https://us02web.zoom.us/rec/share/cYMbDukB1bYnMyi-Qo7EZv8scH6LH9TkWTp5Y8YMogI7ZHuSAi7kTwxHLD84gQY2.QHlJ9AXt70kKs3jo)
