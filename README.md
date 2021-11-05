@@ -21,3 +21,5 @@
 * Monday Nov 1 - Scope: [video](https://us02web.zoom.us/rec/share/wBRYOs5YwtdrjN3i37dtRk_SuWey247ElpQB53uXWb1LED_G-jV6VsmpGjOa6Jb4.2FNoHQBX8ofh0-5S)
 * Wedneday Nov 3 - Arrays: [video](https://us02web.zoom.us/rec/share/aPEgSw3oSkD7ej4dNzkRAfNc-UFTsUD_Ww8pBYR7zE6suWhuslskOeC8gFJBOCQl.aHXvZy1_55cjxYiU)
 * Wedneday Nov 3 - OH (Scope): [video](https://us02web.zoom.us/rec/share/cYMbDukB1bYnMyi-Qo7EZv8scH6LH9TkWTp5Y8YMogI7ZHuSAi7kTwxHLD84gQY2.QHlJ9AXt70kKs3jo)
+* Thursday Nov 4 - OH: [video](https://us02web.zoom.us/rec/share/xlBWqsFU9ilN24-IpIJKOzgT-rgGvM4Ft9Rj6IYT3PiG0mpddrSXh8GEgKYBL3oD.HCSJbDHn7kA0jeCV)
+* Friday Nov 5 - Arrays: [video](https://us02web.zoom.us/rec/share/dl56unz7DIeUmPrOAQc3fmQ7Kbp65aUN6maAVAyMuuq6NdgEub-K_ebXayVWUM9h.59x3Mt8fZSzdv5su)
