@@ -23,3 +23,5 @@
 * Wedneday Nov 3 - OH (Scope): [video](https://us02web.zoom.us/rec/share/cYMbDukB1bYnMyi-Qo7EZv8scH6LH9TkWTp5Y8YMogI7ZHuSAi7kTwxHLD84gQY2.QHlJ9AXt70kKs3jo)
 * Thursday Nov 4 - OH: [video](https://us02web.zoom.us/rec/share/xlBWqsFU9ilN24-IpIJKOzgT-rgGvM4Ft9Rj6IYT3PiG0mpddrSXh8GEgKYBL3oD.HCSJbDHn7kA0jeCV)
 * Friday Nov 5 - Arrays: [video](https://us02web.zoom.us/rec/share/dl56unz7DIeUmPrOAQc3fmQ7Kbp65aUN6maAVAyMuuq6NdgEub-K_ebXayVWUM9h.59x3Mt8fZSzdv5su)
+* Monday Nov 8 - Objects: [video](https://us02web.zoom.us/rec/share/EYlMprAjFkqy_omu8mX1i1XZzYASQB45xyW1iko6bLRPTtt3TYqwGXeDdx4tgHzD.VCXkTyBax6vo_k6Q)
+* Monday Nov 8 - Objects(con'd): [video](https://us02web.zoom.us/rec/share/YqpoJCmtnVapKWU4AZNUzSei0Bp462su7f7H6h_4JiD1DBHOGQoJJXZC0ctKVm0I.E0pwjFOyDzyQNxEt)
