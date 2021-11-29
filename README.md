@@ -27,3 +27,4 @@
 * Monday Nov 8 - Objects(con'd): [video](https://us02web.zoom.us/rec/share/YqpoJCmtnVapKWU4AZNUzSei0Bp462su7f7H6h_4JiD1DBHOGQoJJXZC0ctKVm0I.E0pwjFOyDzyQNxEt)
 * Tuesday Nov 9 - OH: [video](https://us02web.zoom.us/rec/share/axEeL4gkw4wZernHTN-0McPWbo-oExbinOVdl3MDWUuwRqixlM0dnZypy--tVCeU.5eDibpzw_-86R3Rj)
 * Wedneday Nov 10 - Objects, JSON: [video](https://us02web.zoom.us/rec/share/xzsfN3XbbG1Z_kREKG2r-ywXz_ThSFDocRy3p7rLXDAtjLpnwNxyXqfYzLwlnf8T.jRJ9UkwRcMnUWRWd)
+* Monday Nov 29 - Functional Abstractions: [video](https://us02web.zoom.us/rec/share/1Dr7t3tIQEYcJ4PWMBp0itIqgXLHa8otacXGnoK9ohWCmeBSgDGU0G04mJLDYlcD.nwOMC9xXCSnIcFOr)
