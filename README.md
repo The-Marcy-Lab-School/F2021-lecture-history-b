@@ -28,3 +28,4 @@
 * Tuesday Nov 9 - OH: [video](https://us02web.zoom.us/rec/share/axEeL4gkw4wZernHTN-0McPWbo-oExbinOVdl3MDWUuwRqixlM0dnZypy--tVCeU.5eDibpzw_-86R3Rj)
 * Wedneday Nov 10 - Objects, JSON: [video](https://us02web.zoom.us/rec/share/xzsfN3XbbG1Z_kREKG2r-ywXz_ThSFDocRy3p7rLXDAtjLpnwNxyXqfYzLwlnf8T.jRJ9UkwRcMnUWRWd)
 * Monday Nov 29 - Functional Abstractions: [video](https://us02web.zoom.us/rec/share/1Dr7t3tIQEYcJ4PWMBp0itIqgXLHa8otacXGnoK9ohWCmeBSgDGU0G04mJLDYlcD.nwOMC9xXCSnIcFOr)
+* Monday Nov 29 - Practice [video](https://us02web.zoom.us/rec/share/p9-Bv4ypEpE3Tn8ef9nQnwAizRVCRxpH_N71L7r7epo5xd2InHb6qEKmsuEYD9Xq.3nixoylKQH-s_UaN)``
