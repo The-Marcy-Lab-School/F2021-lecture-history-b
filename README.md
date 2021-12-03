@@ -30,3 +30,4 @@
 * Monday Nov 29 - Functional Abstractions: [video](https://us02web.zoom.us/rec/share/1Dr7t3tIQEYcJ4PWMBp0itIqgXLHa8otacXGnoK9ohWCmeBSgDGU0G04mJLDYlcD.nwOMC9xXCSnIcFOr)
 * Monday Nov 29 - Practice [video](https://us02web.zoom.us/rec/share/p9-Bv4ypEpE3Tn8ef9nQnwAizRVCRxpH_N71L7r7epo5xd2InHb6qEKmsuEYD9Xq.3nixoylKQH-s_UaN)
 * Wednesday Dec 1 - Strings & Regex [video](https://us02web.zoom.us/rec/share/d9_1Rb9brad0yVaR7AkMgQDxd3Dnm1Q3geFizRQDA9zc6tI42_h7qw6iLK3zM0kH.hki7GqmgQLN6f76a)
+* Friday Dec 3 - Review [video](https://us02web.zoom.us/rec/share/NlExLH43sexrqQMCx50ijj69aveHvO0TrTnMf00IyVEVucG1KlTZ4ocKrdexC3Nk.rOUE6YRFHDynPsiE)
