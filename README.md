@@ -33,3 +33,5 @@
 * Friday Dec 3 - Review [video](https://us02web.zoom.us/rec/share/NlExLH43sexrqQMCx50ijj69aveHvO0TrTnMf00IyVEVucG1KlTZ4ocKrdexC3Nk.rOUE6YRFHDynPsiE)
 * Monday Dec 6 - Understanding Objects [video](https://us02web.zoom.us/rec/share/TOkBT85BOwtSNjfZ0D7-70Es9JNNi2K6BzSqjZMS_r7-se4jEN6GbBHhSc8ykGst.8cmrjlUe1Fvl5anV)
 * Monday Dec 6 - Execution Context [video](https://us02web.zoom.us/rec/share/CdWboDRDJ9HUPLYQm-iXvoJkKdz1axw4gW7opll-e_473_y4AFh8w8UHDjMVeeF3.YleTtwT5CQOaCd4L)
+* Wednesday Dec 8 - Closures [video](https://us02web.zoom.us/rec/share/8gHYbgJOCYL8aZwCrBj0U3wZBJRlWkXf2I0ABf84TV-j-2Pb7TSsHlG_ajtjsPWz.fVfmVjHkuYTjq5Qe)
+* Friday Dec 10 - Review [video](https://us02web.zoom.us/rec/share/XT0UotH3Cr5wxkwO0Ehf6qgvg3SsV1BHYbOgXsuSVXFT24O-_QTww2iHPgdbROjf.FUSEIirFYC7cjdQR)
