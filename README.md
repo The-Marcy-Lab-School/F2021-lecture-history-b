@@ -36,4 +36,6 @@
 * Wednesday Dec 8 - Closures [video](https://us02web.zoom.us/rec/share/8gHYbgJOCYL8aZwCrBj0U3wZBJRlWkXf2I0ABf84TV-j-2Pb7TSsHlG_ajtjsPWz.fVfmVjHkuYTjq5Qe)
 * Friday Dec 10 - Review [video](https://us02web.zoom.us/rec/share/XT0UotH3Cr5wxkwO0Ehf6qgvg3SsV1BHYbOgXsuSVXFT24O-_QTww2iHPgdbROjf.FUSEIirFYC7cjdQR)
 * Monday Dec 13 - Constructor Functions [video](https://us02web.zoom.us/rec/share/0gc4VcwbIjwUCW5XMVIh2zxis7G6CY_zttHWE86kxFUr0bNgAHXLlNGemuBtj3cx.Xn4f5Uh3yMIx3B1t)
-* Mondat Dec 13 - ES6 Class Syntax [video](https://us02web.zoom.us/rec/share/aXegyxheNzrWbaiPVM9xOJLTF_saujd5j7uBkGyjxkwyVi7mL7EJDp6LDozGj5jS.eeksP3KCmnTOjfdx)
+* Monday Dec 13 - ES6 Class Syntax [video](https://us02web.zoom.us/rec/share/aXegyxheNzrWbaiPVM9xOJLTF_saujd5j7uBkGyjxkwyVi7mL7EJDp6LDozGj5jS.eeksP3KCmnTOjfdx)
+* Tuesday Jan 4 - Review [video](https://us02web.zoom.us/rec/share/2q-aNM5_xs0dLUvswYv5fxR1RQ1H12teFv-4k2nRLWr9mcmXRww6fsyeiUFJOgLU.yBMjtRyHpTYkFsUa)
+* Tuesday Jan 4 - OOP Activity [video](https://us02web.zoom.us/rec/share/Y_7Q6_sDIkyvZZDF9zBKE-VoE8GFCxzsBuX5EEHde_ga7MSCnMM-pSJuiPXCmL8Z.3dJwj964BYzK7o7O)
