@@ -39,3 +39,4 @@
 * Monday Dec 13 - ES6 Class Syntax [video](https://us02web.zoom.us/rec/share/aXegyxheNzrWbaiPVM9xOJLTF_saujd5j7uBkGyjxkwyVi7mL7EJDp6LDozGj5jS.eeksP3KCmnTOjfdx)
 * Tuesday Jan 4 - Review [video](https://us02web.zoom.us/rec/share/2q-aNM5_xs0dLUvswYv5fxR1RQ1H12teFv-4k2nRLWr9mcmXRww6fsyeiUFJOgLU.yBMjtRyHpTYkFsUa)
 * Tuesday Jan 4 - OOP Activity [video](https://us02web.zoom.us/rec/share/Y_7Q6_sDIkyvZZDF9zBKE-VoE8GFCxzsBuX5EEHde_ga7MSCnMM-pSJuiPXCmL8Z.3dJwj964BYzK7o7O)
+* Friday Jan 7 - Review [video](https://us02web.zoom.us/rec/share/tVZVh6zxhbKIKpEa5eoqsv-916QQlLjQaakWjbFzBhTrrOuO0CPzlbnZucXINsm4.kdAmQjXKX_kIry9m)
