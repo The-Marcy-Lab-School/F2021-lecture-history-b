@@ -40,3 +40,4 @@
 * Tuesday Jan 4 - Review [video](https://us02web.zoom.us/rec/share/2q-aNM5_xs0dLUvswYv5fxR1RQ1H12teFv-4k2nRLWr9mcmXRww6fsyeiUFJOgLU.yBMjtRyHpTYkFsUa)
 * Tuesday Jan 4 - OOP Activity [video](https://us02web.zoom.us/rec/share/Y_7Q6_sDIkyvZZDF9zBKE-VoE8GFCxzsBuX5EEHde_ga7MSCnMM-pSJuiPXCmL8Z.3dJwj964BYzK7o7O)
 * Friday Jan 7 - Review [video](https://us02web.zoom.us/rec/share/tVZVh6zxhbKIKpEa5eoqsv-916QQlLjQaakWjbFzBhTrrOuO0CPzlbnZucXINsm4.kdAmQjXKX_kIry9m)
+* Wednesday Jan 12 - Big O Notation & Data Structure [video](https://us02web.zoom.us/rec/share/OPIGjIZbwfAanQY95pViKkPuKYyMnmj0egxoRsYTft5MOxJhZfyL0NYQJeoy-Qpx.5eACs-OqBTf1102w)
