@@ -43,3 +43,4 @@
 * Wednesday Jan 12 - Big O Notation & Data Structure [video](https://us02web.zoom.us/rec/share/OPIGjIZbwfAanQY95pViKkPuKYyMnmj0egxoRsYTft5MOxJhZfyL0NYQJeoy-Qpx.5eACs-OqBTf1102w)
 * Thursday Jan 13 - Linked Lists [video]( https://us02web.zoom.us/rec/share/-_e3YTM59iotEfzk5EOrpL1OgAuNHU50wadQNImDQsZ4x6UOc2kKbTr9rW52HDMh.AyMLngt7NgfeHldb)
 * Tuesday Jan 18 - Stacks & Queues [video](https://us02web.zoom.us/rec/share/UgGeLfqkJ7QGU7gyTddeTSEnQi76TlMzdlnb2uRyTRNv1DUuU6YAlXlt68BGOvl9.F8LEmXbfukOxr3wk)
+* Wednesday Jan 19 - Hash Tables [video](https://us02web.zoom.us/rec/share/ntBJp7xqq0E3zjI0oCnf5AGuwEYlLbq_5KACldtKsZn3gep0JhuID2IREwugX1ys.dYK3J9ZdariAs5Zl)
