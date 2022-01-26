@@ -47,3 +47,4 @@
 * Thursday Jan 20 - Recursion [video](https://us02web.zoom.us/rec/share/gmJETm1ue6qnaW2Uw3vnEy4AeSX0pu-_xT2oYmqQlP3-uHt3lxZqVgeUxkmaPI3B.-FQ3htTNhmXezVbk)
 * Monday Jan 24 - Trees [video](https://us02web.zoom.us/rec/share/hXfvUdh7Naq7Ti5UZAS7A4pCvjUiGp1UoqcBeUnRlAv1Tp572PXRMw3fvS1bpZo.N4Ef-wTNa1iWVl6g)
 * Tuesday Jan 25 - Graphs [video](https://us02web.zoom.us/rec/share/3vvhrAzTJxsRxjkW482z0tfbJwv_qfOnFmR9SQMn6r8MZIDk2m4OVTDFEtU0Hz75.EEBC6SRu59svhuTQ)
+* Wedneday Jan 26 - Sorting [video](https://us02web.zoom.us/rec/share/xZAZFhLwkzP4gx8OxxYoENt1DGQK8Qg3CWD4_A1BjgYMSMIXdsuwAm_vej4aMGOy.vYXjAiJIAKHKwUtK)
