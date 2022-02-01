@@ -49,3 +49,4 @@
 * Tuesday Jan 25 - Graphs [video](https://us02web.zoom.us/rec/share/3vvhrAzTJxsRxjkW482z0tfbJwv_qfOnFmR9SQMn6r8MZIDk2m4OVTDFEtU0Hz75.EEBC6SRu59svhuTQ)
 * Wedneday Jan 26 - Sorting [video](https://us02web.zoom.us/rec/share/xZAZFhLwkzP4gx8OxxYoENt1DGQK8Qg3CWD4_A1BjgYMSMIXdsuwAm_vej4aMGOy.vYXjAiJIAKHKwUtK)
 * Monday Jan 31 - Intro To The DOM [video](https://us02web.zoom.us/rec/share/ohZvkM2sLot-DxqVe46YBR80crijQJ_bN-RyHvtglyYRdkwJucrKAXN1up97dwr1.RGzybsxc2xV2tm4-)
+* Tuesday Feb 1 - DOM Api [video](https://us02web.zoom.us/rec/share/aRckuVFPBXosiQGjlyVwu_YQkAXqwG9uWuzGjwFSo9RwgI5AQR5OTvmmXynVx5oq.F7WY8gTOClbNHKL9)
