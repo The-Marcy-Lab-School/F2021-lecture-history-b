@@ -50,3 +50,4 @@
 * Wedneday Jan 26 - Sorting [video](https://us02web.zoom.us/rec/share/xZAZFhLwkzP4gx8OxxYoENt1DGQK8Qg3CWD4_A1BjgYMSMIXdsuwAm_vej4aMGOy.vYXjAiJIAKHKwUtK)
 * Monday Jan 31 - Intro To The DOM [video](https://us02web.zoom.us/rec/share/ohZvkM2sLot-DxqVe46YBR80crijQJ_bN-RyHvtglyYRdkwJucrKAXN1up97dwr1.RGzybsxc2xV2tm4-)
 * Tuesday Feb 1 - DOM Api [video](https://us02web.zoom.us/rec/share/aRckuVFPBXosiQGjlyVwu_YQkAXqwG9uWuzGjwFSo9RwgI5AQR5OTvmmXynVx5oq.F7WY8gTOClbNHKL9)
+* Wednesday Feb 2 - Event Listeners [video](https://us02web.zoom.us/rec/share/MSUTFB-O4gmQJzbmxi-xTKuwGF4dmEFWYcHwYML-4ItvCepw8UB4oL7AnyGxWGNA.x-Jxd6IYPNXR4n_F)
