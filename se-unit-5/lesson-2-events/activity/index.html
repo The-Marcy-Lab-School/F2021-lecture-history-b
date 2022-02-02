@@ -6,10 +6,45 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Event Listeners</title>
+  <style>
+    .box {
+      border: 2px solid black;
+    }
+
+    #bigbox {
+      height: 500px;
+      width: 500px;
+      background-color: coral;
+    }
+
+    #littlebox {
+      height: 100px;
+      width: 100px;
+      background-color: white;
+    }
+
+    #littlebox2 {
+      height: 100px;
+      width: 100px;
+      background-color: black;
+    }
+  </style>
 </head>
 
 <body>
+  <div id="box"></div>
+  <div>
+    <input id="name" type="text" name="name" />
+  </div>
   <button id="btn">Click Me</button>
+  <div id="bigbox" class="box">
+    <div id="littlebox" class="box">
+    </div>
+    <div id="littlebox2" class="box">
+    </div>
+  </div>
+  <!-- add a link -->
+  <a id="googleLink" href="https://www.google.com">Go to Google</a>
   <script src="./index.js"></script>
 </body>
 
