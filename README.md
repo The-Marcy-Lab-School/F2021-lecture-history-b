@@ -52,6 +52,7 @@
 - Wednesday Feb 2 - Event Listeners [video](https://us02web.zoom.us/rec/share/MSUTFB-O4gmQJzbmxi-xTKuwGF4dmEFWYcHwYML-4ItvCepw8UB4oL7AnyGxWGNA.x-Jxd6IYPNXR4n_F)
 - Thursday Feb 3 - Forms [video](https://us02web.zoom.us/rec/share/32bhMOax0REVjEZp2dukSDGneft53BqUxGp6JxbNOpjhqVj9xbc9cqjptW4H2rVu.CSCuf0EHhsJM2G1r)
 - Monday Feb 7 - Putting It All Together [video](https://us02web.zoom.us/rec/share/Ojh-9_Xd-xd8gBdvUALeDVqrPv8rye6ODuPZxlrIthNrrNpw1kCDoiDsogcY6tg4.7L55OhQZqRUd1oHq)
+- Thursday Feb 18 - Intro To Http [video](https://us02web.zoom.us/rec/share/TJLaCa4el0Jhkk54sY7gfoZzRPI3LHJx-OhZw45v1M3aE2rII95bgtGxpMPeBbGJ.CpuCPmwmSBjZsOgv)
 
 # Leadership Seminar History (Cohort B)
 
