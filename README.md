@@ -54,6 +54,8 @@
 - Monday Feb 7 - Putting It All Together [video](https://us02web.zoom.us/rec/share/Ojh-9_Xd-xd8gBdvUALeDVqrPv8rye6ODuPZxlrIthNrrNpw1kCDoiDsogcY6tg4.7L55OhQZqRUd1oHq)
 - Thursday Feb 17 - Intro To Http [video](https://us02web.zoom.us/rec/share/TJLaCa4el0Jhkk54sY7gfoZzRPI3LHJx-OhZw45v1M3aE2rII95bgtGxpMPeBbGJ.CpuCPmwmSBjZsOgv)
 - Friday Feb 18 - Promises/Fetch/Async-Await [video](https://us02web.zoom.us/rec/share/XGDVGgZh6xWSu5a1rK30mBAxE5VOExSSn7tp91D7zYP9C4QsaN6PbWhju6ny3_YK.TuMwdICAiiY3_KbT)
+- Tuesday Feb 22 - POST requests [video](https://us02web.zoom.us/rec/share/xJYuaDIsBpozyzBMtG1M-H7eEr0bRj1khrGJ-FvG29f-DJ9DFoc87-HSbHxX45Gf.M_orGl3NAbCDPMjv)
+- Tuesday Feb 22 - POST requests (practive) [video](https://us02web.zoom.us/rec/share/8qazmLLSNhpgDD1aNt-H9DMSbtNzcLWdkcZxzJKhur0Jw4gh0vIzWOkqJfdwxtv2.6ImTXEKZgk1nlhfy)
 
 # Leadership Seminar History (Cohort B)
 
