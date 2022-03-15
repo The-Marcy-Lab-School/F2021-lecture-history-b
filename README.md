@@ -57,6 +57,7 @@
 - Tuesday Feb 22 - POST requests [video](https://us02web.zoom.us/rec/share/xJYuaDIsBpozyzBMtG1M-H7eEr0bRj1khrGJ-FvG29f-DJ9DFoc87-HSbHxX45Gf.M_orGl3NAbCDPMjv)
 - Tuesday Feb 22 - POST requests (practive) [video](https://us02web.zoom.us/rec/share/8qazmLLSNhpgDD1aNt-H9DMSbtNzcLWdkcZxzJKhur0Jw4gh0vIzWOkqJfdwxtv2.6ImTXEKZgk1nlhfy)
 - Friday Feb 28 - Async/Await, Optimistic vs Pessimistic Rendering [video](https://us02web.zoom.us/rec/share/c478wrXl0lxnytpVdwerJyt8b9aGxvWOKlDVo-rQq0jQgqcTGkkwye1wuDwLZ9x1.WnSpHjW09GfRfHvd)
+- Tuesday Mar 15 - Intro to Node [video](https://youtu.be/7pYgHLwoWww)
 
 # Leadership Seminar History (Cohort B)
 
