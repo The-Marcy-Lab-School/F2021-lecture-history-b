@@ -59,6 +59,7 @@
 - Friday Feb 28 - Async/Await, Optimistic vs Pessimistic Rendering [video](https://us02web.zoom.us/rec/share/c478wrXl0lxnytpVdwerJyt8b9aGxvWOKlDVo-rQq0jQgqcTGkkwye1wuDwLZ9x1.WnSpHjW09GfRfHvd)
 - Tuesday Mar 15 - Intro to Node [video](https://youtu.be/7pYgHLwoWww)
 - Wednesday March 16 - HTTP Node Server [video](https://us02web.zoom.us/rec/share/2RlXaKAx-9C0Ilpnltj6x8mkzvcJqUw7Crf4T04lGlalsJ3DC5c9Zj_ON5-GstYB.lJiJBUYNwkGYImYM)
+- Friday March 18 - Intro To Express [video](https://us02web.zoom.us/rec/share/vYh-XKrHcvFyKF9e6Nxabij5GyxuujgXm0FXRSFWdVyEYUyP6zCRyWQ36RAd7fUL.0w_92LFuJhK74YDa)
 
 # Leadership Seminar History (Cohort B)
 
