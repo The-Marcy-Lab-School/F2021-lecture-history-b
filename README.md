@@ -60,6 +60,8 @@
 - Tuesday Mar 15 - Intro to Node [video](https://youtu.be/7pYgHLwoWww)
 - Wednesday March 16 - HTTP Node Server [video](https://us02web.zoom.us/rec/share/2RlXaKAx-9C0Ilpnltj6x8mkzvcJqUw7Crf4T04lGlalsJ3DC5c9Zj_ON5-GstYB.lJiJBUYNwkGYImYM)
 - Friday March 18 - Intro To Express [video](https://us02web.zoom.us/rec/share/vYh-XKrHcvFyKF9e6Nxabij5GyxuujgXm0FXRSFWdVyEYUyP6zCRyWQ36RAd7fUL.0w_92LFuJhK74YDa)
+- Monday March 21 - REST [video](https://us02web.zoom.us/rec/share/kmKLYjZjjrAZjHvwc4QOhruZrz-G4mh3cvxp4o5Mfz_MjwHl8CgHwvl5_BNXAVkb.C22hgvJnnOoBkLXX)
+- Monday March 21 - REST [video](https://us02web.zoom.us/rec/share/OTAL9We_zLPd-wOfOmD_DT72YuBvGtaaX5JHVDgvqGr98Z1OMX88Ngc1Fyjz7n4l.jfU6Pk7oU83Ocsgl)
 
 # Leadership Seminar History (Cohort B)
 
