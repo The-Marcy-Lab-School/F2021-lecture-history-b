@@ -62,6 +62,7 @@
 - Friday March 18 - Intro To Express [video](https://us02web.zoom.us/rec/share/vYh-XKrHcvFyKF9e6Nxabij5GyxuujgXm0FXRSFWdVyEYUyP6zCRyWQ36RAd7fUL.0w_92LFuJhK74YDa)
 - Monday March 21 - REST [video](https://us02web.zoom.us/rec/share/kmKLYjZjjrAZjHvwc4QOhruZrz-G4mh3cvxp4o5Mfz_MjwHl8CgHwvl5_BNXAVkb.C22hgvJnnOoBkLXX)
 - Monday March 21 - REST [video](https://us02web.zoom.us/rec/share/OTAL9We_zLPd-wOfOmD_DT72YuBvGtaaX5JHVDgvqGr98Z1OMX88Ngc1Fyjz7n4l.jfU6Pk7oU83Ocsgl)
+- Wednesday March 23 - SQL [video](https://us02web.zoom.us/rec/share/e3fFm5BNUcPPE7Sc5FU-6QzKFQpWcU2JktNx_0WjKq3DzRe4inJW-eqLZiKGyDJi.t812cC6Zfiojvw2t)
 
 # Leadership Seminar History (Cohort B)
 
