@@ -63,6 +63,7 @@
 - Monday March 21 - REST [video](https://us02web.zoom.us/rec/share/kmKLYjZjjrAZjHvwc4QOhruZrz-G4mh3cvxp4o5Mfz_MjwHl8CgHwvl5_BNXAVkb.C22hgvJnnOoBkLXX)
 - Monday March 21 - REST [video](https://us02web.zoom.us/rec/share/OTAL9We_zLPd-wOfOmD_DT72YuBvGtaaX5JHVDgvqGr98Z1OMX88Ngc1Fyjz7n4l.jfU6Pk7oU83Ocsgl)
 - Wednesday March 23 - SQL [video](https://us02web.zoom.us/rec/share/e3fFm5BNUcPPE7Sc5FU-6QzKFQpWcU2JktNx_0WjKq3DzRe4inJW-eqLZiKGyDJi.t812cC6Zfiojvw2t)
+- Friday March 25 - SQL Relations [video](https://us02web.zoom.us/rec/share/o9Lc8eFBwAxe9x2adoPt0x0ejxd11Kgede0tixBGH4_S0j7_1FCyxtTeUX1mocLt.uep3wPW6w40uFjIk)
 
 # Leadership Seminar History (Cohort B)
 
