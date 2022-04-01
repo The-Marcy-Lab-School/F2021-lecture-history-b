@@ -66,6 +66,7 @@
 - Friday March 25 - SQL Relations [video](https://us02web.zoom.us/rec/share/o9Lc8eFBwAxe9x2adoPt0x0ejxd11Kgede0tixBGH4_S0j7_1FCyxtTeUX1mocLt.uep3wPW6w40uFjIk)
 - Monday March 29 - Schema Design [video](https://us02web.zoom.us/rec/share/9pxwGvrPNQIs_W3-nJe0JIxQwtAbjhda_jrOETxboknl8-PJ9VpIjab8UsKN3A2k.eBWm522Md7WzGMgb)
 - Wednesday March 30 - Migrations & Seeds [video](https://us02web.zoom.us/rec/share/PuypCizih4QJPsa7XedUvhYQGqGJxLtEhiq4jBxZGIvslPCrSb7Rl1UEuqxEm1_h.Wd9i8gZpfiKr5HzR)
+- Friday April 1 - Putting It All Together [video](https://us02web.zoom.us/rec/share/dai7CZWKD8_rQfrAKGw-kOQAE0Rm1lyJqFLs__YZYWCmQwg9_SGCbS3QDHKnlrbA.67FKsPUlXC5dOAPN)
 
 # Leadership Seminar History (Cohort B)
 
