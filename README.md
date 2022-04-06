@@ -69,6 +69,7 @@
 - Friday April 1 - Putting It All Together [video](https://us02web.zoom.us/rec/share/dai7CZWKD8_rQfrAKGw-kOQAE0Rm1lyJqFLs__YZYWCmQwg9_SGCbS3QDHKnlrbA.67FKsPUlXC5dOAPN)
 - Monday April 4 - Modularization [video](https://us02web.zoom.us/rec/play/XAPgY4m9gXfvYJWHvI54D8j_myFzalxToCKuBlwilrkY5RZfNeDqoPefKgW6z-_eZiTtMh-DRqS-J-Zx.RMAo6fYvefb9Eyrs?continueMode=true&_x_zm_rtaid=8ph1v3CqSAKEcrAve-8kqA.1649102298977.f1cab50d4144cc47f744b6511c6b6687&_x_zm_rhtaid=637)
 - Monday April 4 - Controllers/Models [video](https://us02web.zoom.us/rec/play/b3ZofHEsZajqDZOefE0p2CGuQYNIgxc8uIRt6g2Dy9F7xT2cAK5DWQZmLXfRAkrPQcSwJ31cAnI3BDni.gKXDhPQaGjc7QgHd?continueMode=true&_x_zm_rtaid=8ph1v3CqSAKEcrAve-8kqA.1649102298977.f1cab50d4144cc47f744b6511c6b6687&_x_zm_rhtaid=637)
+- Wednesday April 6 Review [video](https://us02web.zoom.us/rec/play/QPvLVlcOC9z44qNljCz0K8MVeEKshnzUYIYG6csGtAJUl8S48tAOQ1dY-S3xgRdwMGaCqViVNlxNIerV.ffkMEcLYvBfsmFtf?continueMode=true&_x_zm_rtaid=TdS53mX3Tkq5Md3LQegNQQ.1649266101860.f4e470e5829a00d70ec9339e3d68e200&_x_zm_rhtaid=469)
 
 # Leadership Seminar History (Cohort B)
 
