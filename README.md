@@ -71,8 +71,10 @@
 - Monday April 4 - Controllers/Models [video](https://us02web.zoom.us/rec/play/b3ZofHEsZajqDZOefE0p2CGuQYNIgxc8uIRt6g2Dy9F7xT2cAK5DWQZmLXfRAkrPQcSwJ31cAnI3BDni.gKXDhPQaGjc7QgHd?continueMode=true&_x_zm_rtaid=8ph1v3CqSAKEcrAve-8kqA.1649102298977.f1cab50d4144cc47f744b6511c6b6687&_x_zm_rhtaid=637)
 - Wednesday April 6 Review [video](https://us02web.zoom.us/rec/play/QPvLVlcOC9z44qNljCz0K8MVeEKshnzUYIYG6csGtAJUl8S48tAOQ1dY-S3xgRdwMGaCqViVNlxNIerV.ffkMEcLYvBfsmFtf?continueMode=true&_x_zm_rtaid=TdS53mX3Tkq5Md3LQegNQQ.1649266101860.f4e470e5829a00d70ec9339e3d68e200&_x_zm_rhtaid=469)
 - Wednesday April 13 - Auth [video](https://us02web.zoom.us/rec/share/yaD2-5pQ61PUm6KrBG04TV3NfVbhkeLatoJrj91LpuV-nNxOgt2QmezrsRg_q4WG.S9lu0evTLELMKd7S?startTime=1649861037000)
-Tuesday April 19 Intro To React [video](https://us02web.zoom.us/rec/share/nrJ4TvZ4YDpAMZvApgEQ2ehOBnSlRcCQqpXyc0_cuv_N0-H0nF87CA1XG4fquKgu.C9Tt9gztyI2jtBbs)
-Wednesday April 20 Intro To State [video](https://us02web.zoom.us/rec/share/R--iH11xSv-1xC6N5zSwl6Hvth8kPhUjpsb9DCoFI9Qgouak8Qr7v8dd3j3q-G85.JYhx4FU_bueu2nin)
+  Tuesday April 19 Intro To React [video](https://us02web.zoom.us/rec/share/nrJ4TvZ4YDpAMZvApgEQ2ehOBnSlRcCQqpXyc0_cuv_N0-H0nF87CA1XG4fquKgu.C9Tt9gztyI2jtBbs)
+  Wednesday April 20 Intro To State [video](https://us02web.zoom.us/rec/share/R--iH11xSv-1xC6N5zSwl6Hvth8kPhUjpsb9DCoFI9Qgouak8Qr7v8dd3j3q-G85.JYhx4FU_bueu2nin)
+  Friday April 22 React - Forms [video](https://us02web.zoom.us/rec/share/k5iuJiZSVLZbbLiAPVVDRV-cGDJOoSyOJO10mrMz61zPtbdWzpJX0n4_l9LGEtCT.hMRvrRQzYrNxpCX-)
+  Monday April 25 React - Review [video](https://us02web.zoom.us/rec/share/u8qbSf7tSTVCrm_iGP9nq4EAO0rPUDHZlwY8WZLpN9IFUtfU0TS-pbmzxnWM1Vwu.Ge7uTdgDZKVoIswO)
 
 # Leadership Seminar History (Cohort B)
 
