@@ -76,6 +76,7 @@
 - Friday April 22 React - Forms [video](https://us02web.zoom.us/rec/share/k5iuJiZSVLZbbLiAPVVDRV-cGDJOoSyOJO10mrMz61zPtbdWzpJX0n4_l9LGEtCT.hMRvrRQzYrNxpCX-)
 - Monday April 25 React - Review [video](https://us02web.zoom.us/rec/share/u8qbSf7tSTVCrm_iGP9nq4EAO0rPUDHZlwY8WZLpN9IFUtfU0TS-pbmzxnWM1Vwu.Ge7uTdgDZKVoIswO)
 - Wednesday April 27 - useEffect [video](https://us02web.zoom.us/rec/share/w8iA9lFRFk_3USy2VhS_95YztHAWmhNOSrj3kIhIReMkpIsnkHGIWKikgg43GzCA.axBvdmtnOGi5TjrV)
+- Friday April 29 - useContext [video](https://us02web.zoom.us/rec/share/mm1t38ituLPhS9Rt8WvtLWGm8t63sfbFa9H7a5hFNsxPX2nUDov3f6VK6LAknUmK.J0QMSU0i0qyFAS9J)
 
 # Leadership Seminar History (Cohort B)
 
