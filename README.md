@@ -79,6 +79,8 @@
 - Friday April 29 - useContext [video](https://us02web.zoom.us/rec/share/mm1t38ituLPhS9Rt8WvtLWGm8t63sfbFa9H7a5hFNsxPX2nUDov3f6VK6LAknUmK.J0QMSU0i0qyFAS9J)
 - Monday May 2 - React Router [video](https://us02web.zoom.us/rec/share/COO8MIE04e37cjZ38Ssok9KjKOae___qtESUMMbkwrSHEgUkNpmgE1GghhMBwSy2.CS-6NeIObeANeI_7)
 - Monday May 2 - Class based Components [video](https://us02web.zoom.us/rec/share/vJWGRXyfWzPJFtz8GPwyo_QZt_Wz4iFxTost-irLiWAck3JmdaqoWsbW4g3gGkM.ikULAg10T6Z6vfW8)
+- Wednesday May 4 - Testing [video](https://us02web.zoom.us/rec/share/RlxsNcS9VB3K49krMZp94nrFEqMqV13z45nklbfQ6YmuFmFLr9LkVLlfxBdxS1NP._pJgV66pF0yslaGD)
+
 # Leadership Seminar History (Cohort B)
 
 - Friday Feb 4 [video](https://us02web.zoom.us/rec/share/maTxpXJ875O2us_gGnQd_2EawqK8mdSbtYc4Zo23YqzsL1Hacxxa-VYlPZnU6rzn.mSGCQ8SkJ66u3U6e)
